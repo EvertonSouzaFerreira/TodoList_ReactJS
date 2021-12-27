@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TodoList_ReactJS/static/css/main.ba3cd9b1.chunk.css",
+    "main.js": "/TodoList_ReactJS/static/js/main.08d21ca6.chunk.js",
+    "main.js.map": "/TodoList_ReactJS/static/js/main.08d21ca6.chunk.js.map",
+    "runtime-main.js": "/TodoList_ReactJS/static/js/runtime-main.fbd8a39b.js",
+    "runtime-main.js.map": "/TodoList_ReactJS/static/js/runtime-main.fbd8a39b.js.map",
+    "static/js/2.5d2a8cd5.chunk.js": "/TodoList_ReactJS/static/js/2.5d2a8cd5.chunk.js",
+    "static/js/2.5d2a8cd5.chunk.js.map": "/TodoList_ReactJS/static/js/2.5d2a8cd5.chunk.js.map",
+    "static/js/3.e1a74ba1.chunk.js": "/TodoList_ReactJS/static/js/3.e1a74ba1.chunk.js",
+    "static/js/3.e1a74ba1.chunk.js.map": "/TodoList_ReactJS/static/js/3.e1a74ba1.chunk.js.map",
+    "index.html": "/TodoList_ReactJS/index.html",
+    "static/css/main.ba3cd9b1.chunk.css.map": "/TodoList_ReactJS/static/css/main.ba3cd9b1.chunk.css.map",
+    "static/js/2.5d2a8cd5.chunk.js.LICENSE.txt": "/TodoList_ReactJS/static/js/2.5d2a8cd5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TodoList_ReactJS/static/media/jumboTranparente.1a712ae3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbd8a39b.js",
+    "static/js/2.5d2a8cd5.chunk.js",
+    "static/css/main.ba3cd9b1.chunk.css",
+    "static/js/main.08d21ca6.chunk.js"
+  ]
+}
